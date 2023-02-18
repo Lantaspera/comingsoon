@@ -1,0 +1,25 @@
+footer {
+    background-color:transparent;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .social-icons a {
+    color:rgba(2, 48, 71, 1);
+    margin-right: 20px;
+  }
+  
+  .social-icons a:hover {
+    color: #1da1f2;
+  }
+  
+  .copy-right p {
+    color:rgba(2, 48, 71, 1);
+    font-size: 14px;
+    margin-right: 10px;
+    float: left;
+  }
+  
