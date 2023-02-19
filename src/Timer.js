@@ -4,7 +4,7 @@ import AnimatedCircle from './AnimatedCircle';
 
 
 const LaunchTimer = () => {
-  const launchDate = new Date('July 15, 2023 10:30:00');
+  const launchDate = new Date('April 15, 2023 10:30:00');
   const currentDate = new Date();
   const diffTime = launchDate - currentDate;
   const [timeLeft, setTimeLeft] = useState(0);
